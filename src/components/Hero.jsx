@@ -6,7 +6,7 @@ const Hero = () => {
     <header className="w-full flex justify-center items-center flex-col">
         <nav className='flex justify-between items-center w-full mb-10 pt-3'>
             <img src={logo} alt='subz_logo' className='w-28 object-contain' />
-            <button type='button' onClick={()=>window.open('https://github.com/sanadqazi')}
+            <button type='button' onClick={()=>window.open('https://github.com/sanadqazi/ai-article-summerizer-gpt-3')}
             className='black_btn'> 
                 Github
             </button>

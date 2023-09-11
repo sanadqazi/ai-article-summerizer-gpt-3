@@ -2,7 +2,7 @@
 
 AI Articles Summerizer Powered by <b>ReactJS, Redux, and RapidAPI</b>
 
-Project Demo: <a href="https://rapidapi.com/restyler/api/article-extractor-and-summarizer" target="_blank">here</a>
+Project Demo: <a href="https://chic-treacle-285416.netlify.app/" target="_blank">Open demo</a>
 
 Install:
 
